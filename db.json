@@ -1,0 +1,20 @@
+{
+    "notatki": [
+        {
+            "id": 1,
+            "tytul": "Hello",
+            "autor": "Anonim",
+            "tekst": "Hello World!",
+            "kategoria": "Osobiste",
+            "wyroznienie": false
+        },
+        {
+            "id": 2,
+            "tytul": "Lorem Ipsum",
+            "autor": "Cyceron",
+            "tekst": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque feugiat nibh a orci malesuada iaculis. Sed malesuada pharetra orci, quis mollis risus. Pellentesque ut neque finibus, iaculis metus non, euismod lectus. Vestibulum tincidunt tincidunt magna eget semper. Pellentesque scelerisque lacus nec sodales finibus. Suspendisse consequat lacus ut bibendum efficitur. Suspendisse potenti. Integer rutrum lacus nisi, sit amet euismod lacus vulputate in. Duis et tortor turpis. Suspendisse quis leo at est volutpat ultricies aliquam vitae odio.",
+            "kategoria": "Brak",
+            "wyroznienie": false
+        }
+    ]
+}
