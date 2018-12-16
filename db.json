@@ -6,7 +6,10 @@
             "autor": "Anonim",
             "tekst": "Hello World!",
             "kategoria": "Osobiste",
-            "wyroznienie": false
+            "dataUtworzenia": "Dec 16, 2018 8:22:47 PM",
+            "dataModyfikacji": "Dec 16, 2018 8:22:47 PM",
+            "wyroznienie": false,
+            "ikonka": "Music-icon.png"
         },
         {
             "id": 2,
@@ -14,7 +17,10 @@
             "autor": "Cyceron",
             "tekst": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque feugiat nibh a orci malesuada iaculis. Sed malesuada pharetra orci, quis mollis risus. Pellentesque ut neque finibus, iaculis metus non, euismod lectus. Vestibulum tincidunt tincidunt magna eget semper. Pellentesque scelerisque lacus nec sodales finibus. Suspendisse consequat lacus ut bibendum efficitur. Suspendisse potenti. Integer rutrum lacus nisi, sit amet euismod lacus vulputate in. Duis et tortor turpis. Suspendisse quis leo at est volutpat ultricies aliquam vitae odio.",
             "kategoria": "Brak",
-            "wyroznienie": false
+            "dataUtworzenia": "Dec 13, 2018 9:20:40 PM",
+            "dataModyfikacji": "Dec 15, 2018 10:15:31 AM",
+            "wyroznienie": false,
+            "ikonka": "iBooks-icon.png"
         }
     ]
 }
