@@ -46,6 +46,17 @@
         },
         {
             "id": 4,
+            "tytul": "Kolejna",
+            "autor": "Brak",
+            "tekst": "Witam",
+            "Kategoria": "Brak",
+            "data_utworzenia": "Dec 05, 2018 9:26:04 AM",
+            "data_modyfikacji": "Dec 10, 2018 12:56:01 PM",
+            "wyroznienie": false,
+            "ikonka": "Music-icon.png"
+        },
+        {
+            "id": 5,
             "tytul": "Ostatnia",
             "autor": "Brak",
             "tekst": "Pusto",
