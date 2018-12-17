@@ -42,7 +42,18 @@
             "data_utworzenia": "Dec 05, 2018 9:26:04 AM",
             "data_modyfikacji": "Dec 10, 2018 12:56:01 PM",
             "wyroznienie": false,
-            "ikonka": "iBooks-icon.png"
+            "ikonka": "Book-icon.png"
+        },
+        {
+            "id": 4,
+            "tytul": "Ostatnia",
+            "autor": "Brak",
+            "tekst": "Pusto",
+            "Kategoria": "Brak",
+            "data_utworzenia": "Dec 05, 2018 9:26:04 AM",
+            "data_modyfikacji": "Dec 10, 2018 12:56:01 PM",
+            "wyroznienie": false,
+            "ikonka": "Bulb-icon.png"
         }
     ]
 }
