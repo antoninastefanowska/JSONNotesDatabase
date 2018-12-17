@@ -32,6 +32,17 @@
             "data_modyfikacji": "Dec 10, 2018 12:56:01 PM",
             "wyroznienie": true,
             "ikonka": "Game-icon.png"
+        },
+        {
+            "id": 3,
+            "tytul": "Zapiski",
+            "autor": "Jan Kowalski",
+            "tekst": "Test",
+            "kategoria": "Praca",
+            "data_utworzenia": "Dec 05, 2018 9:26:04 AM",
+            "data_modyfikacji": "Dec 10, 2018 12:56:01 PM",
+            "wyroznienie": false,
+            "ikonka": "iBooks-icon.png"
         }
     ]
 }
