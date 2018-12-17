@@ -1,7 +1,7 @@
 {
     "notatki": [
         {
-            "id": 1,
+            "id": 0,
             "tytul": "Hello",
             "autor": "Anonim",
             "tekst": "Hello World!",
@@ -12,7 +12,7 @@
             "ikonka": "Music-icon.png"
         },
         {
-            "id": 2,
+            "id": 1,
             "tytul": "Lorem Ipsum",
             "autor": "Cyceron",
             "tekst": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque feugiat nibh a orci malesuada iaculis. Sed malesuada pharetra orci, quis mollis risus. Pellentesque ut neque finibus, iaculis metus non, euismod lectus. Vestibulum tincidunt tincidunt magna eget semper. Pellentesque scelerisque lacus nec sodales finibus. Suspendisse consequat lacus ut bibendum efficitur. Suspendisse potenti. Integer rutrum lacus nisi, sit amet euismod lacus vulputate in. Duis et tortor turpis. Suspendisse quis leo at est volutpat ultricies aliquam vitae odio.",
@@ -21,6 +21,17 @@
             "data_modyfikacji": "Dec 15, 2018 10:15:31 AM",
             "wyroznienie": false,
             "ikonka": "iBooks-icon.png"
+        },
+        {
+            "id": 2,
+            "tytul": "Kody",
+            "autor": "Anna Nowak",
+            "Tekst": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+            "kategoria": "Osobiste",
+            "data_utworzenia": "Dec 05, 2018 9:26:04 AM",
+            "data_modyfikacji": "Dec 10, 2018 12:56:01 PM",
+            "wyroznienie": true,
+            "ikonka": "Game-icon.png"
         }
     ]
 }
